@@ -37,10 +37,15 @@ p{
   text-align: right;
 }
 
-.erdekesseg{
+.erdekesseg {
   font-size: 70%;
   padding: 7px;
   font-weight: normal;
+  border-color: lightgray;
+    border-style: hidden;
+    border: 10px
+    
+  
 }
 
 li{
