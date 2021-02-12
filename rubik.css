@@ -41,10 +41,8 @@ p{
   font-size: 70%;
   padding: 7px;
   font-weight: normal;
-  border-color: lightgray;
-    border-style: hidden;
-    border: 10px
-    
+  background-color: lightgray;
+
   
 }
 
